@@ -1,6 +1,6 @@
 ## Mark 13 - Palindrome Birthday 
    
-It is developed using HTML, CSS, JavaScript, [live demo ](https://palindrome-bd.netlify.app/) hosted on netlify. Takes birthday and shows whether it is palindrome or not and tells from how many days we missed it.
+It is developed using HTML, CSS, JavaScript, [live demo ](https://mark13-pelindrome-birthday.netlify.app/) hosted on netlify. Takes birthday and shows whether it is palindrome or not and tells from how many days we missed it.
 
 #### Features 
 - Takes your user's birthday
